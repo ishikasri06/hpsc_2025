@@ -1,3 +1,6 @@
+"""
+Module to calculate sqrt using newton's method
+"""
 def sqrt2(x):
 	s=1.0
 	kmax=100
